@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Time Tracker",
+  "version": "1.0.0",
+  "permissions": ["sidePanel", "storage"],
+  "side_panel": {
+    "default_path": "popup.html"
+  },
+  "action": {
+    "default_title": "Open Tracker"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
