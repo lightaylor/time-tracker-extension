@@ -13,7 +13,7 @@
 
 ## 📦 **Installation**
 
-[**Install from Chrome Web Store**](https://chromewebstore.google.com/detail/bnhfmohhdifemioldomlbfokggfhimpo?utm_source=item-share-cb)
+[**Install from Chrome Web Store**](https://chromewebstore.google.com/detail/time-tracker/kgnfkbgapafkkmkbdnjbpiibcmpkahfc)
 
 1. Clone or download this repository:
    ```bash
